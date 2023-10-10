@@ -8,7 +8,7 @@ pipeline {
            }
        }
    }
-        stage('bye') {
+        stage ('bye') {
            steps {
               echo "good day"
           }
